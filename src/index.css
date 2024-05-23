@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.first{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/1200px-Altja_j%C3%B5gi_Lahemaal.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.one{
+  color: white;
+  max-width: 900px ;
+  margin: 0 auto;
+  padding-top: 94px;
+  padding-left: 66px;
+  
+}
+
+h1{
+  margin-left: -1020px;
+  padding-top: 50px;
+  font-size: 40px;
+  
+}
+
+p{
+  margin-left: -850px; 
+  padding-top: -50px;
+ 
+  
+}
+
+.buttono {
+  margin-left: -1000px; 
+  padding-right:50px;
+  height:40px;
+  background-color: transparent;
+  color:white;
+  
+  }
+
+.buttont{
+  padding-right:50px;
+  height: 40px;
+  background-color: transparent;
+  color: white;
+}
+
+
+ 
